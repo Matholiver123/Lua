@@ -1,0 +1,16 @@
+[
+    {
+        "Usuario": "user",
+        "Senha": 123,
+        "DataNascimento": "21/05/1997",
+        "telefone": 1135486987,
+        "email": "user@gmail.com"
+    },
+    {
+        "Usuario": "duque",
+        "Senha": 123,
+        "DataNascimento": "21/05/1997",
+        "telefone": 1135486987,
+        "email": "user@gmail.com"
+    }
+]
